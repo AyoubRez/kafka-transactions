@@ -1,0 +1,3 @@
+com/appsdeveloperblog/estore/DepositService/KafkaConsumerConfiguration.class
+com/appsdeveloperblog/estore/DepositService/handler/DepositRequestedEventHandler.class
+com/appsdeveloperblog/estore/DepositService/DepositServiceApplication.class

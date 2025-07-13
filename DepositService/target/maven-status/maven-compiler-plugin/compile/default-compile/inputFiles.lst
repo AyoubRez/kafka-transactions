@@ -1,0 +1,3 @@
+/Users/ayoubrezzouk/Desktop/CodeProjects/KafkaTransaction/DepositService/src/main/java/com/appsdeveloperblog/estore/DepositService/DepositServiceApplication.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/KafkaTransaction/DepositService/src/main/java/com/appsdeveloperblog/estore/DepositService/KafkaConsumerConfiguration.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/KafkaTransaction/DepositService/src/main/java/com/appsdeveloperblog/estore/DepositService/handler/DepositRequestedEventHandler.java
