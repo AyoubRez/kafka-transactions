@@ -46,6 +46,7 @@ public class KafkaConsumerConfiguration {
 		config.put(JsonDeserializer.TRUSTED_PACKAGES,
 				environment.getProperty("spring.kafka.consumer.properties.spring.json.trusted.packages"));
 		config.put(ConsumerConfig.ISOLATION_LEVEL_CONFIG, environment.getProperty("spring.kafka.consumer.isolation-level"));
+		config.put(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, environment.getProperty("spring.kafka.consumer.auto-offset-reset"));
 
 		return new DefaultKafkaConsumerFactory<>(config);
 	}

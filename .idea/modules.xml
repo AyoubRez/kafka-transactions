@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KafkaTransaction.iml" filepath="$PROJECT_DIR$/.idea/KafkaTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WithdrawalService/WithdrawalService.iml" filepath="$PROJECT_DIR$/WithdrawalService/WithdrawalService.iml" />
     </modules>
   </component>
 </project>
